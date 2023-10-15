@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Blockchain Projects
 - 📫 How to reach me? just a mail away puniith09@gmail.com
-- ![](https://komarev.com/ghpvc/?username=puniith09&style=flat-square)
+![](https://komarev.com/ghpvc/?username=puniith09&style=flat-square)
 
 <!---
 puniith09/puniith09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
