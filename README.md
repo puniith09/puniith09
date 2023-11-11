@@ -8,6 +8,7 @@
 - Behance - https://behance.net/puniithdesign
 - Dribbble - https://dribbble.com/puniithdesign
 - Hackathon - https://devfolio.co/@puniith09
+- LinkedIn - https://in.linkedin.com/in/puniith
 - ![](https://komarev.com/ghpvc/?username=puniith09&style=flat-square)
 
 <!---
